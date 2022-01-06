@@ -1,6 +1,6 @@
 {
     "name": "qzy/hello",
-    "description": "composer packagelist test",
+    "description": "c",
     "type": "composer-plugin",
     "license": "MIT",
     "authors": [
