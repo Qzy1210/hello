@@ -1,0 +1,19 @@
+{
+    "name": "qzy/hello",
+    "description": "composer packagelist test",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "quzhengyang",
+            "email": "quzhengyang@xiaoyezi.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "qzy\\hello\\": "./"
+        }
+    }
+}
