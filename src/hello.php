@@ -7,7 +7,7 @@ class Hello {
 //        echo "qzy\hello has load";
 //    }
 
-    public static function say($p) {
+    public function say($p) {
 
         return "hello world.  $p";
     }
